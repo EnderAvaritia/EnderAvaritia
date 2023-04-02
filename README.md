@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Zhi+Mang+Xing&size=40&pause=1000&color=2300FF&background=35D6FF00&center=true&vCenter=true&width=800&height=100&lines=%E8%8B%A5%E5%86%8D%E8%AE%B8%E6%88%91%E5%B0%91%E5%B9%B4%E6%97%B6;%E4%B8%80%E4%B8%A4%E9%BB%84%E9%87%91%E4%B8%80%E4%B8%A4%E9%A3%8E)](https://git.io/typing-svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderAvaritia)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/EnderAvaritia/EnderAvaritia/main/assets/github-contribution-grid-snake.svg)
