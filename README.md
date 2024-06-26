@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnderAvaritia)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://raw.githubusercontent.com/EnderAvaritia/EnderAvaritia/main/assets/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/EnderAvaritia/EnderAvaritia/snakeGenerated/github-contribution-grid-snake.svg)
 
 <!--
 **EnderAvaritia/EnderAvaritia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
